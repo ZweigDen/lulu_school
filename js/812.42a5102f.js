@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklulu_school"]=self["webpackChunklulu_school"]||[]).push([[812],{6812:function(n,t,e){e.r(t),e.d(t,{default:function(){return s}});var u=e(6252);function c(n,t,e,c,a,r){return(0,u.wg)(),(0,u.iD)("button",{type:"button",class:"btn btn-outline-dark",onClick:t[0]||(t[0]=(...n)=>r.change&&r.change(...n))},"按我")}var a=e(4051),r={data(){return{newText:"最新活動"}},methods:{change(){a.Z.emit("change",this.newText)}}},o=e(3744);const l=(0,o.Z)(r,[["render",c]]);var s=l}}]);
+//# sourceMappingURL=812.42a5102f.js.map
